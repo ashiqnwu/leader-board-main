@@ -186,6 +186,7 @@ hr {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
         justify-items: center;
+        row-gap: 2em;
     }
 
     .player,
@@ -228,6 +229,7 @@ hr {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
         justify-items: center;
+        row-gap: 2em;
     }
     .blog-info{
         text-align: center;
